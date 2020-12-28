@@ -39,7 +39,7 @@ If you build it, they will come.  This section describes aggregations of Artefac
 
 Alist of exemples made with Artefact-Creator
 
-- [Artefy](https://github.com/Artefact-Labs/Artefy)[:octocat:] - A clone of Spotify made with Artefact.
+- [Artefy](https://github.com/Artefact-Labs/Artefy):octocat: - A clone of Spotify made with Artefact.
 - [Castel](https://github.com/Artefact-Labs/Castel)[:octocat:] - A 2D game with physics made with Artefact and use PhaserJs.
 - [ChatApp](https://github.com/Artefact-Labs/ChatApp)[:octocat:] - A simple chat application.
 - [Discord](https://github.com/Artefact-Labs/Discord)[:octocat:] - A clone of Discord made with Artefact
