@@ -39,15 +39,15 @@ If you build it, they will come.  This section describes aggregations of Artefac
 
 Alist of exemples made with Artefact-Creator
 
-- [KosmOS](https://github.com/Artefact-Labs/KosmOS):octocat: - An operating system working thanks to web technologies (clone of Windows 10) made with Artefact.
-- [Artefy](https://github.com/Artefact-Labs/Artefy):octocat: - A clone of Spotify made with Artefact.
-- [Castel](https://github.com/Artefact-Labs/Castel):octocat: - A 2D game with physics made with Artefact and use PhaserJs.
-- [ChatApp](https://github.com/Artefact-Labs/ChatApp):octocat: - A simple chat application.
-- [Discord](https://github.com/Artefact-Labs/Discord):octocat: - A clone of Discord made with Artefact
-- [DragDemo](https://github.com/Artefact-Labs/DragDemo):octocat: - A simple drag example.
-- [GrooveMusic](https://github.com/Artefact-Labs/GrooveMusic):octocat: - A clone of GrooveMusic made with Artefact
-- [Wedding](https://github.com/Artefact-Labs/Wedding):octocat: - A web site about wedding.
-- [WhatsUp](https://github.com/Artefact-Labs/WhatsUp):octocat: - A clone of WhatsApp made with Artefact-Creator.
+- [KosmOS](https://github.com/Artefact-Labs/KosmOS):octocat: - An operating system working thanks to web technologies (clone of Windows 10) made with Artefact. [Website](https://awesome.artefact-labs.com/kosmos)
+- [Artefy](https://github.com/Artefact-Labs/Artefy):octocat: - A clone of Spotify made with Artefact. [Website](https://awesome.artefact-labs.com/artefy)
+- [Castel](https://github.com/Artefact-Labs/Castel):octocat: - A 2D game with physics made with Artefact and use PhaserJs. [Website](https://awesome.artefact-labs.com/castel)
+- [ChatApp](https://github.com/Artefact-Labs/ChatApp):octocat: - A simple chat application. [Website](https://awesome.artefact-labs.com/chatapp)
+- [Discord](https://github.com/Artefact-Labs/Discord):octocat: - A clone of Discord made with Artefact. [Website](https://awesome.artefact-labs.com/discord)
+- [DragDemo](https://github.com/Artefact-Labs/DragDemo):octocat: - A simple drag example. [Website](https://awesome.artefact-labs.com/dragdemo)
+- [GrooveMusic](https://github.com/Artefact-Labs/GrooveMusic):octocat: - A clone of GrooveMusic made with Artefact. [Website](https://awesome.artefact-labs.com/groovemusic)
+- [Wedding](https://github.com/Artefact-Labs/Wedding):octocat: - A web site about wedding. [Website](https://awesome.artefact-labs.com/wedding)
+- [WhatsUp](https://github.com/Artefact-Labs/WhatsUp):octocat: - A clone of WhatsApp made with Artefact-Creator. [Website](https://awesome.artefact-labs.com/whatsup)
 
 ## Blogs
 
