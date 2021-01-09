@@ -39,6 +39,7 @@ If you build it, they will come.  This section describes aggregations of Artefac
 
 Alist of exemples made with Artefact-Creator
 
+- [KosmOS](https://github.com/Artefact-Labs/KosmOS):octocat: - An operating system working thanks to web technologies (clone of Windows 10) made with Artefact.
 - [Artefy](https://github.com/Artefact-Labs/Artefy):octocat: - A clone of Spotify made with Artefact.
 - [Castel](https://github.com/Artefact-Labs/Castel):octocat: - A 2D game with physics made with Artefact and use PhaserJs.
 - [ChatApp](https://github.com/Artefact-Labs/ChatApp):octocat: - A simple chat application.
