@@ -48,6 +48,7 @@ Alist of exemples made with Artefact-Creator
 - [GrooveMusic](https://github.com/Artefact-Labs/GrooveMusic):octocat: - A clone of GrooveMusic made with Artefact. [Website](https://awesome.artefact-labs.com/groovemusic)
 - [Wedding](https://github.com/Artefact-Labs/Wedding):octocat: - A web site about wedding. [Website](https://awesome.artefact-labs.com/wedding)
 - [WhatsUp](https://github.com/Artefact-Labs/WhatsUp):octocat: - A clone of WhatsApp made with Artefact-Creator. [Website](https://awesome.artefact-labs.com/whatsup)
+- [WhatsUp](https://github.com/Artefact-Labs/Calculator):octocat: - A simple calculator made with Artefact-Creator. [Website](https://awesome.artefact-labs.com/calculator)
 
 ## Blogs
 
